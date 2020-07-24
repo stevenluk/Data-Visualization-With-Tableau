@@ -1,4 +1,6 @@
 # Tableau Challenge - Citi Bike Analytics
+
+### Overview
 Tableau dashboard for NYC Citi Bike Data to analyze the popularity of starting and ending stations as well as the breakdown of user by gender, subscriber status, etc.
 
 ![Citi-Bikes](Images/citi-bike-station-bikes.jpg)
@@ -12,7 +14,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 ### Findings
 
 1: The peak hours during a day is usually 7-9 AM and 5-7 PM throughout the year.
-![peak hour](Images/peak hour.jpg)
+![peak hour](Images/peak-hour.jpg)
 
 
 
