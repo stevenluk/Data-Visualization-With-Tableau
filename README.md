@@ -16,9 +16,19 @@ However, while the data has been regularly updated, the team has yet to implemen
 1: The peak hours during a day is usually 7-9 AM and 5-7 PM throughout the year.
 ![peak hour](Images/peak-hour.JPG)
 
+2: As compared to the summer months the total ridership value goes down by a significant amount during the winter months.
+![ridership](Images/ridership.JPG)
 
+3: The major bike riders fall into the age group around 20 and 50 years of males. However the ridership among female users also seems to be increasing over time.
 
+The ridership data at the older age groups (above 80-90 years) may also indicate the input error of birth year at the user end.
+![age](Images/age.JPG)
 
+4: Start station near Hudson river and public transportation stations tend to have higher usage
+![start station](Images/start-station.JPG)
+
+5: End station near Hudson river and public transportation stations tend to have higher usage
+![end station](Images/end-station.JPG)
 
 
 
