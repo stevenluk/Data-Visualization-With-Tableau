@@ -14,7 +14,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 ### Findings
 
 1: The peak hours during a day is usually 7-9 AM and 5-7 PM throughout the year.
-![peak hour](Images/peak-hour.jpg)
+![peak hour](Images/peak-hour.JPG)
 
 
 
